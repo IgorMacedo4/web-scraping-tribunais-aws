@@ -4,9 +4,9 @@ Sistema de automação para consulta de processos judiciais em tribunais brasile
 
 ## 🎥 Demonstração
 
-<video src="video.mp4" controls title="Demonstração do Sistema de Automação de Tribunais"></video>
+![Demonstração do Sistema](./demo.gif)
 
-> **Vídeo demonstrando o sistema em funcionamento**: Consulta automatizada de processos com bypass de CAPTCHA, extração de dados e processamento em AWS Lambda.
+> **Sistema em ação**: Consulta automatizada de processos com bypass de CAPTCHA, extração de dados e processamento em AWS Lambda.
 
 ## Descrição
 
