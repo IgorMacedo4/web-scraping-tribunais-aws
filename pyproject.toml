@@ -1,0 +1,7 @@
+[project]
+name = "hello_world_crawlers"
+version = "0.1.0"
+
+[tool.setuptools]
+# Esta linha garante que o 'pip install -e .' encontre seu pacote
+packages = ["hello_world", "hello_world.crawlers"]
